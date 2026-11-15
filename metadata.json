@@ -1,0 +1,6 @@
+{
+  "name": "Sai Samarth Trading Company",
+  "description": "Mobile-first agricultural commodity trading, stock, weighbridge purchase, sales, party ledger, and accounting web application for Sai Samarth Trading Company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

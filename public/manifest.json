@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Sai Samarth Trading Company",
+  "short_name": "SaiSamarth",
+  "description": "Mobile-first agricultural commodity trading, weighbridge purchase, sales, multi-location stock, party ledger, and profit accounting system.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
